@@ -1,0 +1,8 @@
+Origin: sumpfgottheit
+Label: chooz packages
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: chooz - interactive terminal menu
+SignWith: 6B0FAA6A0A572D627AEBA0E035C9C8E22457330C
