@@ -1,15 +1,15 @@
 Package: chooz
-Version: 0.1.4
+Version: 0.1.5
 Architecture: arm64
 Maintainer: Florian Sachs <florian.sachs@gmx.at>
-Installed-Size: 1460
+Installed-Size: 1462
 Homepage: https://github.com/sumpfgottheit/chooz
 Priority: optional
 Section: 
-Filename: pool/main/c/chooz/chooz_0.1.4_arm64.deb
-Size: 1439588
-SHA256: 329bdf0a7dcd39c13ba1eb25014ae42e239b445758550289813c45011d28f8f3
-SHA1: fa7e2ee912adf8cf470d09ab978ff54a1a792abf
-MD5sum: 5518da2ee21c605d7b48d2fab91abf23
+Filename: pool/main/c/chooz/chooz_0.1.5_arm64.deb
+Size: 1441146
+SHA256: 11d550e54c48f8e88be62592041c8b14d084edee258794996fb9dd05d936dcc1
+SHA1: 0db760caf3d3f8d07002a14a5bb611e03643f24f
+MD5sum: 23c7732410c814ca21a8c40236deda41
 Description: Interactive terminal menu driven by a YAML file. Think gum choose + fzf --preview.
 
