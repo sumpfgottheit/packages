@@ -5,44 +5,44 @@ Origin: sumpfgottheit
 Label: chooz packages
 Suite: stable
 Codename: stable
-Date: Wed, 03 Jun 2026 16:21:49 UTC
+Date: Wed, 03 Jun 2026 18:12:04 UTC
 Architectures: amd64 arm64
 Components: main
 Description: chooz - interactive terminal menu
 MD5Sum:
- 3b7529173a79fe42fe0fc5a002efeaba 550 main/binary-amd64/Packages
- fb179e1383c27ec729764fd405c855e4 408 main/binary-amd64/Packages.gz
+ 58d174626b3f660d5867f899f7112a2c 550 main/binary-amd64/Packages
+ 30155b8d078359249b011515a1e65c38 409 main/binary-amd64/Packages.gz
  a9340cf071b6058d1c9963dba6b250fe 143 main/binary-amd64/Release
- 96435d0964d9818ed9b411d95733d8db 520 main/binary-arm64/Packages
- aea5b53cdb22566ba8b3fa169e3a768a 394 main/binary-arm64/Packages.gz
+ e50c1e614a70373d223b54d77f220348 520 main/binary-arm64/Packages
+ bfc7a208b7a345d3635ccdb32b07fcb6 394 main/binary-arm64/Packages.gz
  a35bf7a99ce8231367c374f268e5d209 143 main/binary-arm64/Release
 SHA1:
- b7d03aaa1e598c948ef7d375c692cb8988236f31 550 main/binary-amd64/Packages
- 76cacc19ba39035cedc3b7992ad8caab0f3ceb1f 408 main/binary-amd64/Packages.gz
+ e1a0102108343b63445c5aff16eaae82a841de82 550 main/binary-amd64/Packages
+ 50eceef3c788815668ef2bb462faf7688a8aeb7d 409 main/binary-amd64/Packages.gz
  e0210967d7c7b47ca0357f4cde235f2985b85a0d 143 main/binary-amd64/Release
- 39d2958bf6e3da696c97053c9106744a81d603fa 520 main/binary-arm64/Packages
- 24b43e3c635df6178e09b0ba565128d0f1a69641 394 main/binary-arm64/Packages.gz
+ cb0c1a6525e0186161688f597770951fa9b71a46 520 main/binary-arm64/Packages
+ 2f38a1431d9a2067d4278c1da1e265a6c793c09f 394 main/binary-arm64/Packages.gz
  1e279432e3296d555e91acf4ef2eac447e0e814b 143 main/binary-arm64/Release
 SHA256:
- 0517e6eac9e4c179af6744a0715bbb24cd05e09bfa1c91249ee958830449a2cc 550 main/binary-amd64/Packages
- a8db60a71e2a13970d84e36ba13fe2890c39327c4ecff1c1ed1ae81b5e5b2801 408 main/binary-amd64/Packages.gz
+ 3dd19dee3969bb95f59b289979b4341a03865219cb91b953048958355ce9d61b 550 main/binary-amd64/Packages
+ 6e6821d3f9b697f6924be98ecb753760db39d090a9631be25e81b582f19e7b7e 409 main/binary-amd64/Packages.gz
  06c180f12a4312d9e36caf52c9b7749e0e668a68d67fe396629608065d9d3fc5 143 main/binary-amd64/Release
- f4ed478c9189d02efae8a4c357eb8b72e56d6b7d322db14f45ba875f3c7a27b7 520 main/binary-arm64/Packages
- 0bc7c2fce6257e3a8f86cb9f8cdf35c56a503b6b9f28cbc3da104d7dae2d875d 394 main/binary-arm64/Packages.gz
+ d2c6251e6a947a4b5ed30eefaf320aee715bc8608e0c9c9ac50e5ab8ac22d32e 520 main/binary-arm64/Packages
+ b373b793704a9f7592d9760c0320a33b39be81d3afe1648e45b54f479e264c72 394 main/binary-arm64/Packages.gz
  b99b95c2e9e0975260c54a1b9923e03aed108d73f1cc792dde192dbf9be00d30 143 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEO4HnerWbXfrvKXRRhuBySKqs194FAmogVJ4ACgkQhuBySKqs
-197jkxAAr02LcHfYBNkMyawvSA7dyqOUeVeeKnuhXl05IZ1bdIaJ6rXK4umhwhkR
-kN4hCYUV2vEmk76ZCw97MRuFu3/42O7PTgdIdGTyHCOg0Y40tAlUg8AjN2T2YgSM
-ZMscyMJEPK0i6/2m9q16G/3y0pCz8gIpNEWx2zV20V+eru9Tc9U5Zi8V3JzSAowx
-LxHBXSzrlaUAE5vP3QlP/RlB+9LKHzThnwfBUQeKCjdFz5zumUOYPzsBmTnBw30A
-w3psdGGrPN/GA2pgbGdbL8LEJLDCjHBU/jwYbWgy4IBfN5SnzqslcnrVfrgSK9bK
-YCWZ60u4mwe5HpQRipSq4vsE1f/Ku2vXhL5ekQpLMMsgixBSd0y07KMl/PidGdkA
-mxB+THU59IiBdIhCeKlgIo8zwKguDkgWlar8TRKbg2yr12z9QVgeqnP8bD+eX8VJ
-lg4W+Gd0fFWffsO1eYLDaSCF8zsMNHfKPr2lE8iCWRyG+9BDzPKZsvRoBbuiaQu2
-fa46N/xLxrOKESkTOqfvOw3jzV238Y7iqK6roIQTb6UcO8okU8TC5SfTyotejX5M
-0JO7k9vhgSlCSeanowPh9HvFRhn6RG9dIDiwW0uW64p0AxzO6M4O4FHEOdp4DWjX
-u5n99J4+p48Bzgg2P8rILpiX/fzn94P1nftKSaWLfQBJP9zYXv0=
-=ZJ3e
+iQIzBAEBCgAdFiEEO4HnerWbXfrvKXRRhuBySKqs194FAmogbnQACgkQhuBySKqs
+197r2hAA0Pt7H8FCGxBD5Q2k0NldSra5mZqjOmBNGYmIowR/6pQdiZgL3SjeD3WC
+6kkuqyWwEiPjFl+bTMGp44OsI5rsqVUKT21jNK7iNMK7fu0+O4OB8tmyBvt2uz3p
+lSzcXfxIrYNJCcrqjIq2SYMXZlO1fxogxqVGUXMP1dTMh+au1bYhT+/NiKdy5yAn
+OpE+vKUfxbnBk5X78ODXWlZZJBl3dJ9Tbi67XQ5PqtrEwnyR96fRE2ZckXlrQkXf
+Y4j9+YcSQSbmN0GvJNXkpEBlyKgOa/mIGfBDgCw/omS5gFV2Y0yq/2If7cTxdasR
++DUH3o1qQ0Q6zTMMmKMkLeRG7+ZEDL2foOdSMezbdDjDJDmYhVXIaOmtUka+cPEm
+HCjnqJnYueoE/Zf5yiv+wcMJsgLSBIonOt0GiOjKjpRiIN8hCQLk/kaaQGfsm7LK
+GrjF9+oO4lfoqgbQoNbKaZ0EA4mzY0HfT87aYXMrc8YznNPxpTk28QlJMiliIMNR
+7X/S6JDLhA871M/8gPuUW4gKdEdLfRUgcVsKsIbcNroNMd7WIYCjyWxYIigJBpxY
+/7yvjRKmxVWCRqHIsOGoSLRWpIO7u9f0/MdG7Vas2hRKdzrPeBlzcGfXW6duhNYn
+dUkdnArICRatbd7v7PkbbkUt7TEpfI2B15+aDzuCUgmmgDbaaso=
+=4PSJ
 -----END PGP SIGNATURE-----
