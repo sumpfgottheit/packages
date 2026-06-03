@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: sumpfgottheit
+Label: chooz packages
+Architecture: amd64
+Description: chooz - interactive terminal menu
